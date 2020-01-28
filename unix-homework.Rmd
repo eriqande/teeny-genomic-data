@@ -47,13 +47,14 @@ I provide an answer for questions 1 and 2 as examples of what we are looking for
 # `cd` to your home directory and print its path
 
 ```{bash}
-
+cd ~
+pwd
 ```
 
 # Use echo to print `my name is ----` to stdout.  Where `----` is replaced by your name
 
 ```{bash}
-
+echo "my name is Eric"
 ```
 
 
